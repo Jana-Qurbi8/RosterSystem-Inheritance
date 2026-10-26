@@ -1,12 +1,16 @@
-# RosterSystem-Inheritance
-A simple Java project to practice OOP inheritance (Person, Student, Instructor)
-# Inheritance Project 👩‍💻
+# Roster System — Inheritance 👩‍💻
 
-A simple Java project I made to practice **OOP Inheritance**.  
-The project has:  
-- `Person` class (base)  
-- `Student` class (inherits from Person)  
-- `Instructor` class (inherits from Person)  
-- `RosterTester` to test and print info  
+A simple Java project I made to practice **OOP inheritance** by representing people, students, and instructors.
 
-This is just for training and learning purposes.
+## Project Structure
+
+- `Person` — Base class with shared information.
+- Student class — Inherits from `Person` (source file: `Stundent.java`).
+- `Instructor` — Inherits from `Person`.
+- `RosterTester` — Demonstrates the classes and prints their information.
+
+## Tools
+
+- Java
+
+This project is for practice and learning.
